@@ -1,4 +1,5 @@
-# Employee Salary & Department Analysis (SQL Project)
+# 📊 Employee Salary & Department Analysis
+
 
 ## 📌 Project Overview
 Designed and implemented a relational database to analyze employee salaries and department performance.
